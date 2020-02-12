@@ -1,0 +1,21 @@
+{"keyboard":"attack25_ble",
+"keymap":"",
+"layout":"LAYOUT",
+"layers":
+[["KC_NLCK","KC_PSLS","KC_PAST","KC_PMNS","KC_BSPC",
+"KC_P7","KC_P8","KC_P9","KC_PPLS","KC_DEL",
+"KC_P4","KC_P5","KC_P6","KC_NO","LT(2,KC_CALC)",
+"KC_P1","KC_P2","KC_P3","KC_PENT","KC_PGUP",
+"LT(1,KC_0)","KC_NO","KC_PDOT","KC_NO","KC_PGDN"],
+
+["KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+"KC_NO","KC_UP","KC_NO","KC_NO","KC_NO",
+"KC_LEFT","KC_DOWN","KC_RGHT","KC_NO","KC_NO",
+"KC_NO","KC_DOWN","KC_NO","KC_NO","KC_NO",
+"KC_NO","KC_NO","KC_NO","KC_NO","KC_NO"],
+
+["AD_WO_L","BLE_EN","USB_EN","BATT_LV","KC_NO",
+"DELBNDS","BLE_DIS","USB_DIS","ENT_SLP","KC_NO",
+"ADV_ID4","KC_NO","KC_NO","KC_NO","KC_NO",
+"ADV_ID1","ADV_ID2","ADV_ID3","KC_NO","ENT_DFU",
+"KC_NO","KC_NO","KC_NO","KC_NO","KC_NO"]]}  \
